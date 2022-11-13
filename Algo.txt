@@ -6,3 +6,4 @@ pick nose
 wipe boogies
 look out window
 lick window
+clean window
