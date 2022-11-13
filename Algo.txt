@@ -9,3 +9,4 @@ lick window
 clean window
 sit down
 stand up
+look around
