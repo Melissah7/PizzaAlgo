@@ -2,3 +2,4 @@ Call Dominos.
 order pizza.
 pay for the pizza
 wait on driver
+pick nose
