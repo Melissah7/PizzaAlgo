@@ -10,3 +10,4 @@ clean window
 sit down
 stand up
 look around
+walk around
