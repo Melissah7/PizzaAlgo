@@ -11,3 +11,5 @@ sit down
 stand up
 look around
 walk around
+sit back down
+lay down
