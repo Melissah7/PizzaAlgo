@@ -3,3 +3,4 @@ order pizza.
 pay for the pizza
 wait on driver
 pick nose
+wipe boogies
