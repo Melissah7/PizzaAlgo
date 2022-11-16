@@ -19,4 +19,5 @@ open door
 recieve pizza
 tip driver 
 turn on tv
-do a backflip
+sit down 
+eat pizza 
