@@ -18,3 +18,5 @@ drink some water
 open door
 recieve pizza
 tip driver 
+turn on tv
+do a backflip
