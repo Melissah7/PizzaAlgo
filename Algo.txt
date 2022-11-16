@@ -19,5 +19,4 @@ open door
 recieve pizza
 tip driver 
 turn on tv
-sit down 
-eat pizza 
+sit down
