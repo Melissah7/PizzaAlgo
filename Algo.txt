@@ -1,4 +1,5 @@
 Call Dominos.
+ask for any deals
 order pizza.
 pay for the pizza
 wait on driver
@@ -16,5 +17,7 @@ lay down
 crawl around
 hears doorbell
 scream
+drink some water
 open door
 recieve pizza
+tip driver 
